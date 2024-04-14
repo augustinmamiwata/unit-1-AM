@@ -1,10 +1,12 @@
-### [Return Home](../../../) | [Previous Chapter](../Introduction) | [Next Chapter](../Chapter02)
+### **Title:** *Number of Cartographers by U.S. City*
 
-Chapter 1: Setting Up Your Workspace
-=====================================
+### **Author:** Lambert Molleweide
 
-Welcome to the first chapter of Web Mapping! Chapter 1 includes three lessons and Activities 1 & 2:
+### **Dependencies:**
+* [Leaflet 1.6](https://leafletjs.com/reference-1.6.0.html)
 
-*   In Lesson 1, we will introduce text editors and some basic "boilerplate" HTML used to structure your website.
+### **Code Version:**
+Last Updated: 7 March, 2021
 
-*   In Lesson 2, we will discuss how to efficiently set up your web directory and host it through a localhost development server.
+### **Description:**
+This interactive proportional symbol map, built using Leaflet, demonstrates the growth of cartographers by major U.S. city from 2010 to 2020.
