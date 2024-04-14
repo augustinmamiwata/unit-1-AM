@@ -63,7 +63,7 @@ function addEvents(){
 		};
 
 		document.querySelector("table").color = color;
-	});
+	};
 
 	function clickme(){
 
@@ -71,4 +71,4 @@ function addEvents(){
 	};
 
 	document.querySelector("table").addEventListener("click", clickme)
-};
+}};
