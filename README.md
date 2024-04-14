@@ -1,4 +1,4 @@
-### **Title:**  Cartographers by US Cities*
+### **Title:**  MAPPING Cartographers by US Cities*
 
 ### **Author:** Augustin Martinet
 
